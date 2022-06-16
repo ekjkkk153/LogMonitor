@@ -1,0 +1,3 @@
+[UsageMonitor]
+CpuLimit = 60
+MemLimit = 60
